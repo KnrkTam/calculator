@@ -134,6 +134,7 @@ function App() {
   )
 
   return (
+    <>
     <div className="container">
       <h1 className="title">Calculator</h1>
       <div className="calculator-grid">
@@ -167,6 +168,8 @@ function App() {
         </div>
     </div>
   
+    </>
+    
   );
 }
 
