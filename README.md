@@ -4,13 +4,7 @@ A functional calculator using React(JavaScript) to show that a project is much m
 
 To use the calculator, simply click on the numbers you want to operate on and an operator of your choice to see results.
 
-To get insight information on this project, kindly check out the following
-**blog article:**
-
-[How I got my first job as a developer by making simple projects seem big](https://yuridevat.hashnode.dev/how-i-got-my-first-job-as-a-developer),
-written specifically for Week 1 of the [**4 Articles in 4 Weeks - Hashnode Writeathon**](https://townhall.hashnode.com/4-articles-in-4-weeks-hashnode-writeathon).
-
-![Thumbnail](https://github.com/YuriDevAT/calculator/blob/main/assets/calculator.png)
+![Thumbnail](https://raw.githubusercontent.com/KnrkTam/calculator/main/public/calculator.png)
 
 ## Demo
 
@@ -29,10 +23,6 @@ On your computer
 - [Git](https://git-scm.com/downloads)
 - [VS Code](https://code.visualstudio.com/download) (or an IDE of your choice)
 
-Extensions used to successfully show the code
-
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-- [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass)
 
 ## Installation
 
@@ -45,7 +35,7 @@ cd projects && mkdir calculator && cd calculator
 2. Clone the code by typing the following command:
 
 ```bash
-git clone https://github.com/YuriDevAT/YuriDevAT.github.io.git
+git clone https://github.com/KnrkTam/calculator.git
 ```
 
 3. Navigate to the project directory and open the project
@@ -54,7 +44,17 @@ git clone https://github.com/YuriDevAT/YuriDevAT.github.io.git
 cd calculator && code .
 ```
 
-4. Run the project by right click on the `index.html` file and choose **Open with Live Server** (the port should open automatically)
+4. Download the package.json with npm or yarn in your computer.
+
+```bash
+npm install .
+```
+or 
+
+```bash 
+yarn install .
+```
+
 
 
 ## Contributors
