@@ -47,12 +47,11 @@ cd calculator && code .
 4. Download the package.json with npm or yarn in your computer.
 
 ```bash
-npm install .
-```
-or 
-
+npm install 
+``` 
+or
 ```bash 
-yarn install .
+yarn install 
 ```
 
 
