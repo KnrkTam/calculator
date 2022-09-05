@@ -22,6 +22,7 @@ On your computer
 
 - [Git](https://git-scm.com/downloads)
 - [VS Code](https://code.visualstudio.com/download) (or an IDE of your choice)
+- [Package manager: npm](https://www.npmjs.com/) (or [Yarn])(https://yarnpkg.com/) of your choice)
 
 
 ## Installation
@@ -54,6 +55,15 @@ or
 yarn install 
 ```
 
+5. Run the react app with npm or yarn.
+
+```bash
+npm start 
+``` 
+or
+```bash 
+yarn start 
+```
 
 
 ## Contributors
