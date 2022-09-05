@@ -55,14 +55,12 @@ cd calculator && code .
 ```
 
 4. Run the project by right click on the `index.html` file and choose **Open with Live Server** (the port should open automatically)
-5. Run the stylesheet\* by clicking **Watch Sass** in the status bar of the bottom of VS Code
 
-\*When watching Sass, the project will automatically compile the stylesheet and update the browser. Two files (style.css and style.css.map) will be created in the project directory.
 
 ## Contributors
 
 [//]: contributor-faces
 
-<a href="https://github.com/YuriDevAT"><img src="https://avatars.githubusercontent.com/u/54622834?v=4" title="Julia Undeutsch" width="80" height="80"></a>
+<a href="https://github.com/KnrkTam"><img src="https://avatars.githubusercontent.com/u/99338991?s=96&v=4" title="Kenrick Tam" width="80" height="80"></a>
 
 [//]: contributor-faces
